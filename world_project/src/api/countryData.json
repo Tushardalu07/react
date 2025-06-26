@@ -1,0 +1,59 @@
+[
+    {
+        "id":1,
+        "countryName":"world",
+        "capital":"No Capital",
+        "population":"Null",
+        "intrestingFact":"There are 195 countries in the world today, including 193 United Nations member states and 2 observer status."
+    },
+     {
+        "id":2,
+        "countryName":"Nepal",
+        "capital":"kathmandu",
+        "population":29609623,
+        "intrestingFact":"Nepal is home to Mount Everest, the tallest mountain in tne world, standing at 8,848 merters."
+    },
+     {
+        "id":3,
+        "countryName":"Egypt",
+        "capital":"Cairo",
+        "population":104258327,
+        "intrestingFact":"The Pyramids of Giza are one of the Seven Wonders of the Ancient World."
+    },
+     {
+        "id":4,
+        "countryName":"Australia",
+        "capital":"Canberra",
+        "population":25687041,
+        "intrestingFact":"Australia is home to th Great barrier largest coral reef system in the world."
+    },
+     {
+        "id":5,
+        "countryName":"Brazil",
+        "capital":"Brasilia",
+        "population":213993437,
+        "intrestingFact":"Brazil is home to the Amazon Rainforest , the largest tropical rainforest in the world."
+    },
+     {
+        "id":6,
+        "countryName":"France",
+        "capital":"Paris",
+        "population":67407241,
+        "intrestingFact":"The Eiffel Tower in Paris was once the tallest man-made structure in the world."
+    },
+     {
+        "id":7,
+        "countryName":"Russia",
+        "capital":"Moscow",
+        "population":1324216107,
+        "intrestingFact":"Russia is the largest country in the world by area, covering more than 17 million square kilometers."
+    },
+     {
+        "id":8,
+        "countryName":"China",
+        "capital":"Beijing",
+        "population":14442116107,
+        "intrestingFact":"The Great Wall of China is visible from space on rare occasions."
+    }
+    
+]
